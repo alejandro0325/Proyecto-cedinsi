@@ -1,0 +1,38 @@
+body{
+    background-color: darkgrey;
+    color:black;
+    font-family:Arial, Helvetica, sans-serif
+}
+body a img{
+    width: 120px;
+    padding: 20px;
+}
+
+table{
+    border-collapse: collapse;
+    font-size: 20px;
+    position: relative;
+    left: 520px;
+    
+}
+caption{
+    background-color: aliceblue;
+}
+th,td{
+    border-style: ridge;
+    padding: 15px;
+}
+tr>th{
+    background-color:  #A3FBD4;
+}
+tbody>tr:hover{
+    background-color: aliceblue;
+}
+.section2 {
+    position: relative;
+    text-align: center;
+}
+.parrafo2{
+    position: relative;
+    text-align: center;
+}

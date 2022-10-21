@@ -1,0 +1,37 @@
+body{
+    background-color: darkgray;
+    color:black;
+    font-family:Arial, Helvetica, sans-serif
+}
+body a img{
+    width: 120px;
+    padding: 20px;
+}
+.div1,.div2,.div3{
+ border-style: solid;  
+ border-width: 1px; 
+ border-radius: 30px;
+ background-color: rgb(169, 248, 222);
+ margin: 30px 20px 30px 20px;
+ padding: 10px;
+ width: 300px;
+ text-align: center;
+ 
+}
+.div2{
+    position: relative;
+    top: -275px ;
+    left: 500px ;
+}
+.div3{
+    position: relative;
+    top: -550px ;
+    left: 1000px ;
+}
+.article2{
+    position: relative;
+    top: -500px ;
+}
+footer{
+    text-align: center;
+}

@@ -1,11 +1,23 @@
 body{
     background-color: darkgrey;
+    color:black;
+    font-family:Arial, Helvetica, sans-serif
+    
 }
+body a img{
+    width: 120px;
+    padding: 20px;
+}
+.parrafo1{
+    position: relative;
+    text-align:center;
+}     
+
 .menu{
  font-family: Arial, Helvetica;   
  list-style: none;
  padding: 0;
- background: 092327;
+ background:#A3FBD4;
  width: 90%;
  max-width: 1000px;
  margin: auto;
@@ -23,3 +35,58 @@ display: block;
 .menu li a:hover{
     background: #9ce5ea;
 }
+.caja1,.caja2,.caja3{
+ border-style: solid;  
+ border-width: 1px; 
+ border-radius: 30px;
+ background-color:#A3FBD4;
+ margin: 30px 20px 30px 20px;
+ padding: 10px;
+ width: 400px;
+ text-align: center;
+ float: left;
+}
+
+.img1,.img2,.img3{
+    width: 250px;
+    margin:20px;
+
+}
+
+section article h2{
+    text-align: center;
+}
+.caja4,.caja5{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 30px;
+    background-color: #A3FBD4;
+    margin: 30px 20px 30px 20px;
+    padding: 10px;
+    width: 800px;
+    height:400px;
+    position: relative;
+    text-align:center;
+    float: left;
+   
+
+}
+.img4,.img5{
+    width: 700px;
+    height: 100px;
+}
+ footer{
+    position: relative;
+    text-align:center;
+}
+address{
+    position: relative;
+    text-align:center;
+}   
+aside{
+    position: relative;
+    text-align:center;
+    clear: both;
+}      
+
+
