@@ -1,5 +1,5 @@
 body{
-    background-color: darkgrey;
+    background-color: rgba(229, 224, 224, 0.971);
     color:black;
     font-family:Arial, Helvetica, sans-serif
     
@@ -55,6 +55,11 @@ display: block;
 
 section article h2{
     text-align: center;
+}
+.section2{
+    position: relative;
+    text-align:center;
+    clear: both;   
 }
 .caja4,.caja5{
     border-style: solid;

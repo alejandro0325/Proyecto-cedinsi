@@ -14,23 +14,16 @@ body a img{
  background-color: rgb(169, 248, 222);
  margin: 30px 20px 30px 20px;
  padding: 10px;
- width: 300px;
+ width: 430px;
  text-align: center;
+ float: left;
  
 }
-.div2{
-    position: relative;
-    top: -275px ;
-    left: 500px ;
-}
-.div3{
-    position: relative;
-    top: -550px ;
-    left: 1000px ;
-}
+
 .article2{
     position: relative;
-    top: -500px ;
+    text-align: center;
+    clear: both;
 }
 footer{
     text-align: center;
